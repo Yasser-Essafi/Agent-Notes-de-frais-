@@ -1,0 +1,17 @@
+{
+  "source": "ocr",
+  "file_name": "receipt_taxi_paris.jpg",
+  "vendor": "Taxi Parisien",
+  "date": "2025-06-12",
+  "amount_total": 60.0,
+  "currency": "EUR",
+  "vat_amount": 5.45,
+  "category_hint": "Taxi",
+  "line_items": [
+    {
+      "desc": "Course taxi Gare de Lyon -> CDG",
+      "total": 60.0
+    }
+  ],
+  "fields_missing": []
+}

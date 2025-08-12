@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Taxi",
+    "amount_total": 60.0,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:23:03.696801"
+  },
+  {
+    "category": "Taxi",
+    "amount_total": 80.0,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:23:10.321520"
+  },
+  {
+    "category": "Misc",
+    "amount_total": 30.0,
+    "currency": "EUR",
+    "has_receipt": false,
+    "status": "created",
+    "created_at": "2025-08-12T21:23:13.491510"
+  },
+  {
+    "category": "Taxi",
+    "amount_total": 45.5,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:23:15.545066"
+  },
+  {
+    "category": "Taxi",
+    "amount_total": 0.0,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:23:16.578783"
+  },
+  {
+    "category": "Restaurant",
+    "amount_total": 85.0,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:24:25.379640"
+  },
+  {
+    "category": "Restaurant",
+    "amount_total": 95.0,
+    "currency": "EUR",
+    "has_receipt": true,
+    "status": "created",
+    "created_at": "2025-08-12T21:26:05.157719"
+  }
+]

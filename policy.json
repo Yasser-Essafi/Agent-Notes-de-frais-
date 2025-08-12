@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "categories": {
+    "Taxi": {
+      "max_per_item": 80,
+      "requires_receipt": true,
+      "allowed": true,
+      "vat_hint": "10% or 0%"
+    },
+    "Restaurant": {
+      "max_per_item": 100,
+      "requires_receipt": true,
+      "allowed": true,
+      "vat_hint": "10%"
+    },
+    "Hotel": {
+      "max_per_item": 180,
+      "requires_receipt": true,
+      "allowed": true,
+      "vat_hint": "10%"
+    },
+    "Alcohol": {
+      "max_per_item": 0,
+      "requires_receipt": true,
+      "allowed": false,
+      "vat_hint": "20%"
+    },
+    "Misc": {
+      "max_per_item": 60,
+      "requires_receipt": false,
+      "allowed": true,
+      "vat_hint": "varies"
+    }
+  },
+  "approval_thresholds": {
+    "EUR": 120,
+    "CAD": 150
+  },
+  "notes": "Amounts are TTC."
+}

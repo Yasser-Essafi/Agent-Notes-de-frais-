@@ -1,0 +1,19 @@
+{
+  "source": "ocr",
+  "file_name": "receipt_restaurant_montreal.jpg",
+  "vendor": "Bistro du Vieux-Port",
+  "date": "2025-05-28",
+  "amount_total": 120.0,
+  "currency": "CAD",
+  "vat_amount": 0.0,
+  "category_hint": "Restaurant",
+  "line_items": [
+    {
+      "desc": "Repas client x2",
+      "total": 120.0
+    }
+  ],
+  "fields_missing": [
+    "participants"
+  ]
+}

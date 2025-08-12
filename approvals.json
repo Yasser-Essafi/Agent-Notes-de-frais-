@@ -1,0 +1,47 @@
+[
+  {
+    "to": "manager@example.com",
+    "payload": {
+      "category": "Hotel",
+      "amount": 180.0,
+      "currency": "EUR"
+    },
+    "sent_at": "2025-08-12T21:23:06.943581"
+  },
+  {
+    "to": "manager@example.com",
+    "payload": {
+      "category": "Restaurant",
+      "amount": 200.0,
+      "currency": "EUR"
+    },
+    "sent_at": "2025-08-12T21:23:09.292942"
+  },
+  {
+    "to": "manager@example.com",
+    "payload": {
+      "category": "Restaurant",
+      "amount": 120.0,
+      "currency": "EUR"
+    },
+    "sent_at": "2025-08-12T21:23:11.342423"
+  },
+  {
+    "to": "manager@example.com",
+    "payload": {
+      "category": "Misc",
+      "amount": 75.0,
+      "currency": "EUR"
+    },
+    "sent_at": "2025-08-12T21:23:14.466676"
+  },
+  {
+    "to": "manager@example.com",
+    "payload": {
+      "category": "Hotel",
+      "amount": 200.0,
+      "currency": "EUR"
+    },
+    "sent_at": "2025-08-12T21:25:06.132866"
+  }
+]
