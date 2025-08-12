@@ -53,7 +53,7 @@ Réponse :
 {
   "verdict": "OK",
   "reason": "Conforme à la politique", 
-  "record": { ... }
+  "record": {}
 }
 ```
 Interface Swagger
@@ -63,7 +63,7 @@ Voir le dossier captures/ pour des exemples visuels de l'interface et des répon
 
 ## Tests
 
-12 scénarios de test qui couvrent :
+14 scénarios de test qui couvrent :
 - Les 4 cas de base demandés
 - Quelques cas limites (montants aux seuils)
 - Formats variés (virgules, etc.)
